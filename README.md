@@ -21,5 +21,5 @@ A su vez, se realizan estimaciones de parámetros para los siguientes procesos:
 ## Autores
 
 * María Camila Vásquez Correa - [camivasz](https://github.com/camivasz).
-* Paola Andrea Fernández López.
-* Juliana Vallejo Díez.
+* Paola Andrea Fernández López.- [pfernan47](https://github.com/pfernan47)
+* Juliana Vallejo Díez.- [julianavallejo](https://github.com/julianavallejo)
